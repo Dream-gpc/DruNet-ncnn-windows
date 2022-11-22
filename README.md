@@ -1,5 +1,5 @@
 # DRUNet-ncnn-windows
-This is an unofficial simple implementation of DruNet based on ncnn.
+This is an unofficial simple implementation of DRUNet based on ncnn.
 
 
 ## 环境准备

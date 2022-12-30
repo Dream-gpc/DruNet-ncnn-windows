@@ -42,14 +42,14 @@ This is an unofficial simple implementation of DRUNet based on ncnn.
 | 256x256 | --- | 2.62 | --- | 
 | 1200x1600 | --- | 19.73 | --- | 
 
-
+## Citation
 > 
-@article{zhang2021plug, % DPIR & DRUNet & IRCNN
-  title={Plug-and-Play Image Restoration with Deep Denoiser Prior},
-  author={Zhang, Kai and Li, Yawei and Zuo, Wangmeng and Zhang, Lei and Van Gool, Luc and Timofte, Radu},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2021}
-}
+    @article{zhang2021plug, % DPIR & DRUNet & IRCNN
+    title={Plug-and-Play Image Restoration with Deep Denoiser Prior},
+    author={Zhang, Kai and Li, Yawei and Zuo, Wangmeng and Zhang, Lei and Van Gool, Luc and Timofte, Radu},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    year={2021}
+    }
 
 
 ## License

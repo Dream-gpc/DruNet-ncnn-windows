@@ -22,15 +22,15 @@ This is an unofficial simple implementation of DRUNet based on ncnn.
 
 | Input | Pytorch | ncnn |
 | --- | --- | --- |
-|  <img src="https://github.com/Dream-gpc/DruNet-ncnn-windows/tree/main/imtest/noiseimg1.png" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1.png" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg1-ncnn.png" width="300px"> | 
-|  <img src="https://github.com/Dream-gpc/DruNet-ncnn-windows/tree/main/imtest/noiseimg2.png" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg2.png" width="300px"> |  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/denoiseimg2-ncnn.png" width="300px"> | 
+|  <img src="imtest/noiseimg1.png" width="300px">   | <img src="results/denoiseimg1.png" width="300px"> | <img src="results/denoiseimg1-ncnn.png" width="300px"> | 
+|  <img src="imtest/noiseimg2.png" width="300px"> | <img src="results/denoiseimg2.png" width="300px"> |  <img src="results/denoiseimg2-ncnn.png" width="300px"> | 
 
 
 ### 彩色图
 
 | Input | Pytorch | ncnn |
 | --- | --- | --- |
-|  <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/imtest/cnoiseimg1.jpg" width="300px">   | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/cdenoiseimg1.jpg" width="300px"> | <img src="https://github.com/Dream-gpc/DeamNet-ncnn-windows/blob/main/results/cdenoiseimg1-ncnn.png" width="300px"> | 
+|  <img src="imtest/cnoiseimg1.jpg" width="300px">   | <img src="results/cdenoiseimg1.jpg" width="300px"> | <results/cdenoiseimg1-ncnn.png" width="300px"> | 
 
 ## Runtime
 

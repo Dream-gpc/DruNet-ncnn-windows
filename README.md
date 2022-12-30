@@ -30,7 +30,7 @@ This is an unofficial simple implementation of DRUNet based on ncnn.
 
 | Input | Pytorch | ncnn |
 | --- | --- | --- |
-|  <img src="imtest/cnoiseimg1.jpg" width="300px">   | <img src="results/cdenoiseimg1.jpg" width="300px"> | <results/cdenoiseimg1-ncnn.png" width="300px"> | 
+|  <img src="imtest/cnoiseimg1.jpg" width="300px">   | <img src="results/cdenoiseimg1.jpg" width="300px"> | <img src="<results/cdenoiseimg1-ncnn.png" width="300px"> | 
 
 ## Runtime
 
